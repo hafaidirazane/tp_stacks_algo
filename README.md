@@ -1,1 +1,1 @@
-# tp_stacks_algo
+# tp_StacksEtQueue_algo
